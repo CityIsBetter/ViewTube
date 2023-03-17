@@ -1,5 +1,4 @@
-html,
-body {
+html, body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -26,7 +25,7 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #FC1503 !important;
+  background-color: #6555E7 !important;
   color: white !important;
 }
 
@@ -50,10 +49,10 @@ a {
   text-transform: capitalize;
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
   cursor:pointer;
   background: transparent;
-  outline: none;
+  outline: 1px solid #3E5DD2;
   border: none;
 
   padding: 7px 15px;
