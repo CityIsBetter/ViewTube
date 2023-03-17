@@ -15,7 +15,7 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'Mr Beast', icon: <TheaterComedyIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
